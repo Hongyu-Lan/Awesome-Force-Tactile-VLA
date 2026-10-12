@@ -38,7 +38,6 @@ If you find this repository useful, please giving this list a star ⭐. Feel fre
 
 | Method | Title | Venue | Date | Code/Project | Key feature/finding |
 | --- | --- | --- | --- | --- | --- |
-
 | [AT-VLA](https://arxiv.org/abs/2605.07308) | AT-VLA: Adaptive Tactile Injection for Enhanced Feedback Reaction in Vision-Language-Action Models | CVPR 2026 | 5/2026 | [Github](https://github.com/clorislili/AT-VLA) | <details><summary>Details</summary>Adaptive tactile injection and dual-stream control enable selective tactile fusion and fast closed-loop reaction.</details> |
 | [TacFiLM](https://arxiv.org/abs/2603.14604) | Tactile Modality Fusion for Vision-Language-Action Models | ECCV 2026 | 3/2026 | [Project](https://charliem7.github.io/projects/TacFilm/) | <details><summary>Details</summary>Feature-wise linear modulation conditions pretrained VLA visual features on tactile representations for contact-rich manipulation.</details> |
 | [RDP](https://arxiv.org/abs/2503.02881) | Reactive Diffusion Policy: Slow-Fast Visual-Tactile Policy Learning for Contact-Rich Manipulation | RSS 2025 | 3/2025 | [Project](https://reactive-diffusion-policy.github.io/) | <details><summary>Details</summary>Hierarchical slow diffusion planning and fast tactile feedback control for reactive contact-rich manipulation.</details> |
